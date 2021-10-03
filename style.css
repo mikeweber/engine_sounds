@@ -1,0 +1,17 @@
+.cylinder {
+  width: 200px;
+  height: 200px;
+  margin: 0 20px;
+  float: left;
+  border: 3px solid #333;
+  border-radius: 100px;
+  text-align: center;
+  font-size: 100px;
+  line-height: 200px;
+}
+
+.cylinder.active {
+  border-color: #E33;
+  background: #E33;
+}
+
